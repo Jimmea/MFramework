@@ -1,0 +1,12 @@
+{
+    "name": "hungokata/ce_framework_demo",
+    "authors": [
+        {
+            "name": "hungokata",
+            "email": "hungitc.hubt@gmail.com"
+        }
+    ],
+    "require": {
+        "filp/whoops": "^2.1"
+    }
+}
